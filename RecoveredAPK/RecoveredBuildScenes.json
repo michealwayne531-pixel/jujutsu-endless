@@ -1,0 +1,20 @@
+{
+  "unityVersion": "2020.3.18f1",
+  "scenes": [
+    "Assets/BeatEmUp/000_Loading Scene.unity",
+    "Assets/BeatEmUp/00_MainMenu.unity",
+    "Assets/BeatEmUp/02_CharacterSelection.unity",
+    "Assets/BeatEmUp/03_LevelSelection.unity",
+    "Assets/BeatEmUp/04_TrainingRoom.unity",
+    "Assets/BeatEmUp/Levels/Game_01.unity",
+    "Assets/BeatEmUp/Levels/Game_02.unity",
+    "Assets/BeatEmUp/Levels/Game_03.unity",
+    "Assets/BeatEmUp/Levels/Game_04.unity",
+    "Assets/BeatEmUp/Levels/Game_05.unity",
+    "Assets/BeatEmUp/Levels/Game_06.unity",
+    "Assets/BeatEmUp/Levels/Game_07.unity",
+    "Assets/BeatEmUp/Levels/Game_08.unity",
+    "Assets/BeatEmUp/Levels/Game_09.unity",
+    "Assets/BeatEmUp/Levels/Game_10.unity"
+  ]
+}

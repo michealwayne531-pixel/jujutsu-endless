@@ -1,0 +1,53 @@
+{
+  "sourceZip": "Game_Endless_Final_Upgraded_Unity_Project.zip",
+  "unityEditorAvailableInSandbox": false,
+  "testedEditor": "2022.3.62f3",
+  "unityOpenTest": "not_run_editor_unavailable",
+  "projectStructure": {
+    "assets": true,
+    "packages": true,
+    "projectSettingsDirectory": true,
+    "library": false,
+    "originalEditableAssetSource": false,
+    "recreatedScenes": 15,
+    "packedRecoveredData": true
+  },
+  "definiteCSharpErrorsInOriginalZip": [
+    {
+      "code": "CS0266",
+      "file": "Assets/Scripts/Endless/ChapterSelectController.cs",
+      "line": 17,
+      "message": "Cannot implicitly convert type float to long",
+      "fix": "System.Math.Max(1L, chapter)"
+    },
+    {
+      "code": "CS0266",
+      "file": "Assets/Scripts/Endless/EndlessProgression.cs",
+      "line": 40,
+      "message": "Cannot implicitly convert type double to float",
+      "fix": "(float)DifficultyScale(chapter)"
+    },
+    {
+      "code": "CS0019",
+      "file": "Assets/Scripts/Endless/RecreatedSceneRuntime.cs",
+      "line": 87,
+      "message": "Operator * cannot be applied to operands of type Vector2 and Vector2",
+      "fix": "new Vector2(dimensions.x * 1000f, dimensions.y * 600f)"
+    }
+  ],
+  "fixedStaticAudit": {
+    "treeSitterSyntax": "passed",
+    "definiteErrorsRemaining": "none",
+    "unityCompile": "not_verified_without_editor"
+  },
+  "androidConfiguration": {
+    "unity": "2022.3.62f3",
+    "backend": "IL2CPP",
+    "architectures": [
+      "ARMv7",
+      "ARM64"
+    ],
+    "buildSystem": "Gradle",
+    "buildAppBundle": false
+  }
+}

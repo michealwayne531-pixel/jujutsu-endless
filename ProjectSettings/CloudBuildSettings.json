@@ -1,0 +1,16 @@
+{
+  "unityVersion": "2022.3.62f3",
+  "buildTarget": "Android",
+  "scriptingBackend": "IL2CPP",
+  "targetArchitectures": [
+    "ARMv7",
+    "ARM64"
+  ],
+  "androidBuildSystem": "Gradle",
+  "buildAppBundle": false,
+  "packageIdentifier": "com.hoptimistgames.jujutsukaisenfightinggame",
+  "outputPath": "Builds/Jujutsu_Endless_Upgraded.apk",
+  "executeMethod": "Reconstructed.CloudBuild.BuildAndroid.PerformBuild",
+  "sceneManifest": "Assets/CloudBuild/RecoveredBuildScenes.json",
+  "failIfRecoveredScenesMissing": false
+}

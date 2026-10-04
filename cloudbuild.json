@@ -1,0 +1,13 @@
+{
+  "unityVersion": "2022.3.62f3",
+  "target": "Android",
+  "executeMethod": "Reconstructed.CloudBuild.BuildAndroid.PerformBuild",
+  "buildPath": "Builds/Jujutsu_Endless_Upgraded.apk",
+  "scriptingBackend": "IL2CPP",
+  "architectures": [
+    "ARMv7",
+    "ARM64"
+  ],
+  "buildAppBundle": false,
+  "packageIdentifier": "com.hoptimistgames.jujutsukaisenfightinggame"
+}

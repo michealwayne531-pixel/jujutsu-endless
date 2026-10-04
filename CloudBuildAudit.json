@@ -1,0 +1,12 @@
+{
+  "master": "Game_Endless_CloudBuild_Ready_Unity2020.3.18f1.zip",
+  "sceneRecreationAuthorized": true,
+  "recreatedSceneCount": 15,
+  "unityVersion": "2020.3.18f1",
+  "android": {"scriptingBackend": "IL2CPP", "architectures": ["ARMv7", "ARM64"], "output": "Builds/Jujutsu_Endless_Upgraded.apk"},
+  "csharpSyntaxAudit": "passed",
+  "sceneAudit": "passed",
+  "packedDataCopiedToStreamingAssets": true,
+  "apkProduced": false,
+  "apkReason": "Unity Editor 2020.3.18f1 and Android Build Support are unavailable in the authorized sandbox; no APK is claimed."
+}

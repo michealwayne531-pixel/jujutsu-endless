@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!104 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+    - enabled: 1
+      path: Assets/BeatEmUp/000_Loading Scene.unity
+      guid: eefe57afad4d50a37ff4b947155c577a
+    - enabled: 1
+      path: Assets/BeatEmUp/00_MainMenu.unity
+      guid: 51d0ef97705ce9b82c2c6feb5262a54a
+    - enabled: 1
+      path: Assets/BeatEmUp/02_CharacterSelection.unity
+      guid: 8d41492a6d639394fb0b6366ad1395d5
+    - enabled: 1
+      path: Assets/BeatEmUp/03_LevelSelection.unity
+      guid: abac7978ee8c8ed7f0feb4e945dd48f8
+    - enabled: 1
+      path: Assets/BeatEmUp/04_TrainingRoom.unity
+      guid: 3b421b4a41067cad86aa6a06230d18ac
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_01.unity
+      guid: aadfec1720ac116a8c9f1007bf7aa4a0
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_02.unity
+      guid: 426ca6120a451910b08e7c8a388db188
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_03.unity
+      guid: b1e35640e2565069406cea7ea7500da6
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_04.unity
+      guid: f178919b40a40877c9d47e73c90a1160
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_05.unity
+      guid: 71f1c9f01a1e17d96bb3ec8e3b42c0f2
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_06.unity
+      guid: 389722e0975b3a523a9745bacaf8892b
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_07.unity
+      guid: b3dca5d1e7c20e398d02b3dc9a154e13
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_08.unity
+      guid: 415cc17b2a71db006a7c98f8b00911ca
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_09.unity
+      guid: 5937d2a28ed094e69069828a492486e3
+    - enabled: 1
+      path: Assets/BeatEmUp/Levels/Game_10.unity
+      guid: 80e204bbb3809a94dfe768e66eb3ce57
+  m_configObjects: {}
